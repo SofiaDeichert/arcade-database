@@ -1,0 +1,7 @@
+1 "Donkey Kong" 500000 JWS 25 $6.25
+2 Kong
+3 "Donkey Kong" 1 750000
+2 Rat
+4 Rat
+4 Galaga
+1 "Sekiro" 589000 SCD 56 $119.99
