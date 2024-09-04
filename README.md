@@ -69,3 +69,6 @@ This project was implemented using C++ with a focus on file I/O operations. Here
 7. Temporary File Usage: When deleting records, a temporary file is created to store the updated database content before replacing the original file.
 
 These techniques allow for efficient and robust management of the arcade database, providing flexibility in handling various operations while maintaining data integrity.
+
+## Linked List Version
+github.com/SofiaDeichert/arcade-database-linkedlist-version
